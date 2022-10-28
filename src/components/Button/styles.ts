@@ -5,12 +5,12 @@ export const styles = StyleSheet.create({
     flex: 1,
     height: 56,
     maxHeight: 56,
-    margin: 24,
+    margin: 5,
     backgroundColor: '#FFE15A',
     borderRadius: 5,
     justifyContent: 'center',
     alignItems: 'center',
-    marginTop: 16
+
   },
   title: {
     color: '#000000',

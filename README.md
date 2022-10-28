@@ -20,6 +20,9 @@
 - Git clone do repositório
 - Instalação da aplicação
 - Instalação do expo camera
+- Inicialização da camera do usuário
+- Instalação do react-native-view-shot
+- Instalação do expo sharing
 
 ## Stack utilizada
 React Native, StyleSheet, Expo

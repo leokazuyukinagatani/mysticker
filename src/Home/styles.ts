@@ -12,24 +12,32 @@ export const styles = StyleSheet.create({
   picture: {
     backgroundColor: '#FFF',
     borderRadius: 10,
-    margin: 24,
-    padding: 5
+    marginHorizontal: 50,
+    marginBottom: 30,
+    overflow: 'hidden',
+
   },
   camera: {
-    width: Dimensions.get("screen").width - 58,
-    height: 300
+    width: Dimensions.get("screen").width - 100,
+    height: Dimensions.get("screen").height - 470,
+    alignSelf: 'center'
   },
   player: {
     width: '100%',
     backgroundColor: '#FFF',
-    height: 56,
+    height: 55,
     justifyContent: 'center',
-    alignItems: 'center'
   },
   name: {
     fontSize: 22,
     fontWeight: '900',
     color: '#000',
-    textTransform: 'uppercase'
+    textTransform: 'uppercase',
+    textAlign: 'center'
+  },
+ 
+  sticker: {
+    backgroundColor: '#373D98',
   }
+
 });
