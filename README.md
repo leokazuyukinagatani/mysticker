@@ -10,7 +10,7 @@
 # NLW Copa - Crie sua figurinha personalizada - Mobile React Native
 
 - Nome do Evento: NLW Copa
-- Data: De 11 a 18 de setembro de 2022
+- Data: De 31/10 a 04/11 de 2022
 - Empresa: Rocketseat
 - Aula ministrada por: Rodrigo Gonçalves Santana(Educator na Rocketseat)
 - Conteúdo: Construção de uma aplicação para criar sua figurinha personalizada com foco no uso das seguintes features(Utilizar câmera do dispositivo, obter screenshots, compartilhar imagem)
@@ -32,13 +32,13 @@ React Native, StyleSheet, Expo
 Clone o projeto
 
 ```bash
-  git clone https://github.com/leokazuyukinagatani/nlw-e-sports-mobile
+  git clone https://github.com/leokazuyukinagatani/mysticker
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd nlw-e-sports-mobile
+  cd mysticker
 ```
 
 Instale as dependências
